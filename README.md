@@ -1,1 +1,1 @@
-A pasta HackerRank ainda não está no Git.
+Agora o HackerRank está no Git.
