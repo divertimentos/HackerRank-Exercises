@@ -1,1 +1,1 @@
-# Agora o HackerRank está no Git.
+Este é o repositório do HackerRank
