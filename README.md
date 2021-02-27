@@ -1,1 +1,1 @@
-Este é o repositório do HackerRank
+# HackerRank Exercises Solved
